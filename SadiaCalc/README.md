@@ -29,7 +29,7 @@ The calculator is deployed on [**npmjs** repository](https://www.npmjs.com/).
 You can install and test using following command.
 
 ```bash 
- npx i sadiacalc  
+ npx sadiacalc  
  or 
  npm i sadiacalc
 ```

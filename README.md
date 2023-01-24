@@ -15,7 +15,7 @@ All the projects are deployed on **npmjs** registery.
 You can install and test using following command.
 
 ```bash
-  npx install <project-name>
+  npx <project-name>
   or 
   npx i <project-name>
 ```
